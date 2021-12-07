@@ -1,75 +1,35 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Rails app
 
-> One paragraph statement about the project.
+> Use RubyGems as a software package system.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+RubyGems is the package manager that handles all the gems on your machine. From the command line you can search for gems, install and uninstall gems, list current gems, and perform other such commands. As a repository of gems, it's not only a great resource for finding gems to work with, you can also publish your own gems there!
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- Ruby
+- SQLite3
+- Node.js
+- Yarn
+- Rails
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Herbert**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Herbert](https://github.com/herokudev)
+- LinkedIn: [Herbert](https://www.linkedin.com/in/herbert-orellana)
+- Twitter: [v](https://twitter.com/HerbertOrellan4)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
